@@ -9,6 +9,7 @@ It's simple! Just open the directory of that file on terminal and write
 python dataset_generator.py (no of courses) (no of students)
 
 Don't use the () on the above command line.
+If python doesn't work, then write python3
 This will create all the files in the marks folder, and then run the script to find the Highest, Lowest and Average marks in each course and append the results in a new stats.csv file
 
 ## 1st Task
